@@ -1,0 +1,7 @@
+div{
+    display: flex;
+    justify-content: space-between;
+    font-weight: 100px;
+    font-style: normal;
+    font-style: oblique;
+}
